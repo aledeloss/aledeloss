@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola! Gracias por visitar mi Github!🤗
+Acá encontrarás mis proyectos con los que practico y aprendo, especialmente React.
 
-<!--
-**aledeloss/aledeloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi proyecto favorito es Mi Huerta🌱 (https://github.com/aledeloss/mi-huerta/tree/master/), un pequeña aplicación web en React que pensé, diseñe y desarrollé para aprender. Y además para planificar mi huerta.
 
-Here are some ideas to get you started:
+También podrás encontrar otros proyectos personales, enjoy! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there! Thanks for visting my Github profile! 🤗
+Hereby you wil find my learning and practicing projects, mainly in React.
+
+My favorite project is Mi Huerta 🌱(https://github.com/aledeloss/mi-huerta/tree/master/), a small web app developed in React, that I thought, designed and -the most important thing- developed in order to learn. And also so I can plan my own vegetable garden at home.
+
+You may find some other personal projects as well. Enjoy!✨
