@@ -1,6 +1,7 @@
 ## Hi there! Thanks for visiting my profile! 🤗
 
-Hereby you wil find my learning and practicing projects, mainly in React. Some examples are:
+Hereby you wil find my learning and practicing projects, mainly in React. Be aware that these are quite old projects, since this year I've focused on my current job and freelance projects.  But keep in touch, as updates and new projects are coming very soon.
+Some examples are:
 
 [🌱 Mi huerta](https://github.com/aledeloss/mi-huerta): A site for helping you grow your own vegetable garden at home. Made with React, SASS, Bootstrap and tons of ❤️. You may find the live demo [here](https://mi-huerta.vercel.app/).
 
@@ -11,7 +12,7 @@ If you are interested, you can also reach me at https://www.linkedin.com/in/aled
 
 ## Hola! Gracias por visitar mi perfil! 🤗
 
-Acá encontrarás mis proyectos con los que practico y aprendo, especialmente React. Algunos ejemplos son:
+Acá encontrarás mis proyectos con los que practico y aprendo, especialmente React. Tené en cuenta que quedaron algo viejos, ya que durante este año me enfoqué mis proyectos laborales. Pero planeo subir actualizaciones y nuevos proyectos muy pronto. Algunos ejemplos son:
 
 [🌱 Mi huerta](https://github.com/aledeloss/mi-huerta): Sitio desarrollado para ayudar a tener huertas en casa. Desarrollado con React, Sass, Bootstrap y mucho ❤️. Podés encontrar la demo [acá](https://mi-huerta.vercel.app/).
 
