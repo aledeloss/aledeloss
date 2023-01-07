@@ -2,10 +2,9 @@
 
 Hereby you wil find my practicing projects and contributions:
 
-*[👩🏻‍🍳 My recipe book](https://github.com/aledeloss/recipe-book): I am currently developing a Recipe book app for saving my best recipes and sharing them.  Please (PLEASE!) be aware that it is a work in progress, so you might find some bugs and a quite ugly design.
-* Also, I am contribuiting to an open source project, which you can find in my activity.
+[👩🏻‍🍳 My recipe book](https://github.com/aledeloss/recipe-book): I am currently developing a Recipe book app for saving my best recipes and sharing them.  Please (PLEASE!) be aware that it is a work in progress, so you might find some bugs and a quite ugly design.
 
-Finally, some of my previous projects are the following. Note that these are old projects, since in 2022 I've been focused mainly on my current job and freelance projects:
+I am also contribuiting to an open source project, which you can find in my activity. Finally, some of my previous projects are the following below. Note that these are old projects, since in 2022 I've been focused mainly on my current job and freelance projects:
 
 [🌱 Mi huerta](https://github.com/aledeloss/mi-huerta): A site for helping you grow your own vegetable garden at home. Made with React, SASS, Bootstrap and tons of ❤️. You may find the live demo [here](https://mi-huerta.vercel.app/).
 
