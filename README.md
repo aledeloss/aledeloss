@@ -1,4 +1,4 @@
-## Hi there! Thanks for visiting my profile! 🤗
+## Hi! Thanks for visiting my profile! 🤗
 
 Hereby you wil find my practicing projects and contributions:
 
